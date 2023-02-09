@@ -1,0 +1,12 @@
+.heading {
+    font-size: 50px ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background: linear-gradient(aqua 0%, #9D00FF 100%);
+}
